@@ -7,25 +7,25 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 </p>
 
 <p align="center">
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#general-search-engines" target="_blank">General</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#servers" target="_blank">Servers</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#vulnerabilities" target="_blank">Vulnerabilities</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#exploits" target="_blank">Exploits</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#attack-surface" target="_blank">Attack surface</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#code-search-engines" target="_blank">Code</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#mail-addresses" target="_blank">Mail addresses</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#domains" target="_blank">Domains</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#urls" target="_blank">URLs</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#dns" target="_blank">DNS</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#certificates" target="_blank">Certificates</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#wifi-networks" target="_blank">WiFi networks</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#device-information" target="_blank">Device Info</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#credentials" target="_blank">Credentials</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#hidden-services" target="_blank">Hidden Services</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#social-networks" target="_blank">Social Networks</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#phone-numbers" target="_blank">Phone numbers</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#threat-intelligence" target="_blank">Threat Intelligence</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#web-history" target="_blank">Web History</a>
+  <a href="https://github.com/bigsam64/whataloser/awesome-hacker-search-engines#general-search-engines" target="_blank">General</a> •
+  <a href="https://github.com/bigsam64/whataloser/awesome-hacker-search-engines#servers" target="_blank">Servers</a> •
+  <a href="https://github.com/bigsam64/whataloser/awesome-hacker-search-engines#vulnerabilities" target="_blank">Vulnerabilities</a> •
+  <a href="https://github.com/bigsam64/whataloser/awesome-hacker-search-engines#exploits" target="_blank">Exploits</a> •
+  <a href="https://github.com/bigsam64/whataloser/awesome-hacker-search-engines#attack-surface" target="_blank">Attack surface</a> •
+  <a href="https://github.com/bigsam64/whataloser/awesome-hacker-search-engines#code-search-engines" target="_blank">Code</a> •
+  <a href="https://github.com/bigsam64/whataloser/awesome-hacker-search-engines#mail-addresses" target="_blank">Mail addresses</a> •
+  <a href="https://github.com/bigsam64/whataloser/awesome-hacker-search-engines#domains" target="_blank">Domains</a> •
+  <a href="https://github.com/bigsam64/whataloser/awesome-hacker-search-engines#urls" target="_blank">URLs</a> •
+  <a href="https://github.com/bigsam64/whataloser/awesome-hacker-search-engines#dns" target="_blank">DNS</a> •
+  <a href="https://github.com/bigsam64/whataloser/awesome-hacker-search-engines#certificates" target="_blank">Certificates</a> •
+  <a href="https://github.com/bigsam64/whataloser/awesome-hacker-search-engines#wifi-networks" target="_blank">WiFi networks</a> •
+  <a href="https://github.com/bigsam64/whataloser/awesome-hacker-search-engines#device-information" target="_blank">Device Info</a> •
+  <a href="https://github.com/bigsam64/whataloser/awesome-hacker-search-engines#credentials" target="_blank">Credentials</a> •
+  <a href="https://github.com/bigsam64/whataloser/awesome-hacker-search-engines#hidden-services" target="_blank">Hidden Services</a> •
+  <a href="https://github.com/bigsam64/whataloser/awesome-hacker-search-engines#social-networks" target="_blank">Social Networks</a> •
+  <a href="https://github.com/bigsam64/whataloser/awesome-hacker-search-engines#phone-numbers" target="_blank">Phone numbers</a> •
+  <a href="https://github.com/bigsam64/whataloser/awesome-hacker-search-engines#threat-intelligence" target="_blank">Threat Intelligence</a> •
+  <a href="https://github.com/bigsam64/whataloser/awesome-hacker-search-engines#web-history" target="_blank">Web History</a>
 </p>
 
 ### General Search Engines
